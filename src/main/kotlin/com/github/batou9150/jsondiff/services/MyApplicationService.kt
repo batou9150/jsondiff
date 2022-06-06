@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.batou9150.jsondiff.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.batou9150.jsondiff.MyBundle
 
 class MyApplicationService {
 
